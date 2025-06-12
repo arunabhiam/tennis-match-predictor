@@ -35,7 +35,7 @@ User provides:
 Built using **Streamlit** — users can enter stats and get real-time predictions.  
 Also includes quick access buttons to ATP/WTA sites to find the stats.
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](assets/appsc.png)
 
 ##  How to Run
 
